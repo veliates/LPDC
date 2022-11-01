@@ -185,3 +185,5 @@ plt.ylabel("BER(Bit Error Rate)")
 plt.legend()
 plt.savefig("BSC.png")
 plt.show()
+
+#veli#
